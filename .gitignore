@@ -1,7 +1,15 @@
+# (1) - Ignore all log files
 
+# (2) - Ignore the entire user manual folder
 
+# (3) - Ignore all txt files that include a “-”
 
+# (4) - Ignore the styles.css file
+styles.css
 
+# (5) - Ignore all SRS files besides the final version
+*SRS*.docx
+!*SRS_final*.docx
 
 # (6) - Ignore all SDD files except final version
 *.sdd
