@@ -1,0 +1,12 @@
+
+
+
+
+
+# (6) - Ignore all SDD files except final version
+*.sdd
+!*final*.sdd
+
+# (7) - Ignore any README files not in the root directory
+README.md
+!/README.md
