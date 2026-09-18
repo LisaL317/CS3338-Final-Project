@@ -12,8 +12,8 @@ styles.css
 !*SRS_final*.docx
 
 # (6) - Ignore all SDD files except final version
-*.sdd
-!*final*.sdd
+**/SDD*.docx
+!**/SDD_final*.docx
 
 # (7) - Ignore any README files not in the root directory
 README.md
