@@ -1,1 +1,1 @@
-CS3338 Final Project for Group04
+Jira link, objectives, download instructions goes here.
