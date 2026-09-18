@@ -1,0 +1,5 @@
+Melanie Guzman: Create src, Did gitignore f. and g.
+Brittany Irazoque: Create docs, Did gitignore b. and c.
+Jiarui (Lisa) Liu: Create repo and project, Create assets, Did gitignore a.
+Kenny Luu: Create files not in directories, Create project issues, Did gitignore d. and e.
+ 
