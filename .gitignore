@@ -1,20 +1,20 @@
 # (1) - Ignore all log files
+*.log
 
 # (2) - Ignore the entire user manual folder
+User_Manual
 
 # (3) - Ignore all txt files that include a “-”
+*-*.txt
 
 # (4) - Ignore the styles.css file
 styles.css
 
 # (5) - Ignore all SRS files besides the final version
-*SRS*.docx
-!*SRS_final*.docx
+**/SRS_v*.docx
 
 # (6) - Ignore all SDD files except final version
-**/SDD*.docx
-!**/SDD_final*.docx
+**/SDD_v*.docx
 
 # (7) - Ignore any README files not in the root directory
-README.md
-!/README.md
+*/**/README.md
